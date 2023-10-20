@@ -5,7 +5,7 @@ Sidcre Digital Limited
 </h1>
 </p>
 <p align="center">
-Building Innovations,Distrupting Industries & Empowering Businesses
+Building Innovations,Disrupting Industries & Empowering Businesses
 
 </p>
 
