@@ -70,8 +70,8 @@ Welcome to the world of Sidcre, where innovation meets opportunity. Our multicha
 ## 🙏 Support
 
 <p align="left">
-<a href="https://twitter.com/sidcre_token" target="_blank">
-<img src="https://img.shields.io/twitter/follow/sidcre_token?style=social" alt="sidcre_token"/>
+<a href="https://twitter.com/sidcre_official" target="_blank">
+<img src="https://img.shields.io/twitter/follow/sidcre_official?style=social" alt="sidcre_token"/>
 </a>
 </p>
 
